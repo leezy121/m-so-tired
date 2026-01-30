@@ -1,0 +1,31 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEzNDE5MTcsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg0ZjREMzNGREEwMmE5NEJEMjEzNmU0OUU4QTY3MDBDMkI2MTVhM2UwIn0",
+    "payload": "eyJkb21haW4iOiJoaWRkZW4tc3BsaXQtODU5LmFwcC5vaGFyYS5haSJ9",
+    "signature": "wM+1+jTPWOjvwaSCKiAi9KPLefV+bQq5IjyvmthwWx1i6MtKnIS48TKmyJxIU9LmUmMvRyPhQQvDr487TOpRQhw="
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "ai trading app",
+    "iconUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_65909d82-74df-4258-856d-adc72e77ca35-wXlAaZFEvgYf9YkkjSjr9xOHoAZ76d",
+    "homeUrl": "https://aitrades.fit",
+    "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_65909d82-74df-4258-856d-adc72e77ca35-wXlAaZFEvgYf9YkkjSjr9xOHoAZ76d",
+    "buttonTitle": "Open with Ohara",
+    "splashImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/farcaster/splash_images/splash_image1.svg",
+    "splashBackgroundColor": "#ffffff",
+    "tags": [
+      "ohara",
+      "mini-app",
+      "base",
+      "farcaster"
+    ],
+    "primaryCategory": "entertainment",
+    "ogTitle": "ai trading app",
+    "ogImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_65909d82-74df-4258-856d-adc72e77ca35-wXlAaZFEvgYf9YkkjSjr9xOHoAZ76d"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      ""
+    ]
+  }
+}
