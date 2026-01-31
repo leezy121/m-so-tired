@@ -1,0 +1,10 @@
+ignoredBuiltDependencies:
+  - '@prisma/engines'
+  - bufferutil
+  - utf-8-validate
+
+onlyBuiltDependencies:
+  - '@prisma/client'
+  - core-js
+  - prisma
+  - sharp
