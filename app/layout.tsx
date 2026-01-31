@@ -4,6 +4,7 @@ import "./globals.css";
 import { ResponseLogger } from "@/components/response-logger";
 import { cookies } from "next/headers";
 import FarcasterWrapper from "@/components/FarcasterWrapper";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -38,6 +39,7 @@ export default async function RootLayout({
       </FarcasterWrapper>
       
             <ResponseLogger />
+            <SpeedInsights />
           </body>
         </html>
       );
